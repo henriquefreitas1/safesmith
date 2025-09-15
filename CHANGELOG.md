@@ -1,5 +1,34 @@
 # Changelog
 
+## 0.1.9 (2025-09-15)
+
+
+### Features
+
+* add support for deleting txn by nonce ([4ee9549](https://github.com/henriquefreitas1/safesmith/commit/4ee9549e9b34445fc3eb9e48143f607a7ca0404a))
+* change interface directive to @ and drop safe command to simplify runs ([dd6dd6d](https://github.com/henriquefreitas1/safesmith/commit/dd6dd6dbe4da7f6edfa21c8004d63e243bde9700))
+* change project to safesmith ([8510593](https://github.com/henriquefreitas1/safesmith/commit/8510593491ecd453741fc631b1ca0db74a74d827))
+* improve parsing and settings config ([8e176f8](https://github.com/henriquefreitas1/safesmith/commit/8e176f856404b39b5a7802f0c3e0587e8fe2ce89))
+* improved proxy handling ([96a73f3](https://github.com/henriquefreitas1/safesmith/commit/96a73f3d51b234d5cda6010d63cdf529088c12a3))
+* readme edits and 0.1.4 release ([592cfc2](https://github.com/henriquefreitas1/safesmith/commit/592cfc2fb51bf69f61de695e0b3e082611dae8bc))
+* support merging abis for proxy and implementation ([4fea33d](https://github.com/henriquefreitas1/safesmith/commit/4fea33d48f2e5af03572d81eb03f4c812f15c206))
+* update README.md ([66e72a6](https://github.com/henriquefreitas1/safesmith/commit/66e72a6df3ad9da500f5b816c01ba53cfb9bbbc0))
+* uvx for builds ([33ffe22](https://github.com/henriquefreitas1/safesmith/commit/33ffe22bbc18641a8b00bd56a8431ab55f379c02))
+
+
+### Bug Fixes
+
+* add release workflow ([17fd1fb](https://github.com/henriquefreitas1/safesmith/commit/17fd1fb999a28f0572e6c29b3d029b1152dffc9c))
+* add release workflow ([e49ac1a](https://github.com/henriquefreitas1/safesmith/commit/e49ac1a9fcac135f229b40b57859c597d125f1e9))
+* add release workflow ([fa5fa6a](https://github.com/henriquefreitas1/safesmith/commit/fa5fa6aab8446297d11ceed248fb6dba88411119))
+* add safesmith init ([8038b60](https://github.com/henriquefreitas1/safesmith/commit/8038b608c8199f0db9cfe91e5b14e4579f3d23a8))
+* changelog ([f9595b3](https://github.com/henriquefreitas1/safesmith/commit/f9595b38aa587b91cec497c93f0e6ba55fc193de))
+
+
+### Miscellaneous
+
+* release 0.1.9 ([311b3e3](https://github.com/henriquefreitas1/safesmith/commit/311b3e3d8c5573c7ef302a12c16f3281cc3759b4))
+
 ## [0.1.9](https://github.com/wavey0x/safesmith/compare/v0.1.0...v0.1.9) (2025-04-17)
 
 
